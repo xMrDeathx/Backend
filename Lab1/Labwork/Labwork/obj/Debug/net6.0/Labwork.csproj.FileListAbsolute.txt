@@ -1,0 +1,15 @@
+C:\Learning\Backend\Lab1\Labwork\Labwork\bin\Debug\net6.0\Labwork.exe
+C:\Learning\Backend\Lab1\Labwork\Labwork\bin\Debug\net6.0\Labwork.deps.json
+C:\Learning\Backend\Lab1\Labwork\Labwork\bin\Debug\net6.0\Labwork.runtimeconfig.json
+C:\Learning\Backend\Lab1\Labwork\Labwork\bin\Debug\net6.0\Labwork.dll
+C:\Learning\Backend\Lab1\Labwork\Labwork\bin\Debug\net6.0\ref\Labwork.dll
+C:\Learning\Backend\Lab1\Labwork\Labwork\bin\Debug\net6.0\Labwork.pdb
+C:\Learning\Backend\Lab1\Labwork\Labwork\obj\Debug\net6.0\Labwork.csproj.AssemblyReference.cache
+C:\Learning\Backend\Lab1\Labwork\Labwork\obj\Debug\net6.0\Labwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\Backend\Lab1\Labwork\Labwork\obj\Debug\net6.0\Labwork.AssemblyInfoInputs.cache
+C:\Learning\Backend\Lab1\Labwork\Labwork\obj\Debug\net6.0\Labwork.AssemblyInfo.cs
+C:\Learning\Backend\Lab1\Labwork\Labwork\obj\Debug\net6.0\Labwork.csproj.CoreCompileInputs.cache
+C:\Learning\Backend\Lab1\Labwork\Labwork\obj\Debug\net6.0\Labwork.dll
+C:\Learning\Backend\Lab1\Labwork\Labwork\obj\Debug\net6.0\ref\Labwork.dll
+C:\Learning\Backend\Lab1\Labwork\Labwork\obj\Debug\net6.0\Labwork.pdb
+C:\Learning\Backend\Lab1\Labwork\Labwork\obj\Debug\net6.0\Labwork.genruntimeconfig.cache
